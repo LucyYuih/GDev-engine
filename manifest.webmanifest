@@ -1,0 +1,84 @@
+{
+  "name": "Friday Night Funkin' GDev Engine",
+  "short_name": "Friday Night Funkin' GDev Engine",
+  "id": "com.fnfgdev.lucyyuih",
+  "description": "V0.1.1 Big Update!!\n-added Options!!\n•Optimizations\n°splash notes\n°cover\n°strums animation\n°low quality\n°ultra low Quality\n•Gameplay\n°downscroll\n°middlescroll\n°opponent notes\n°instant respawn\n•Visuals And Ui\n°disable icons\n°life bar opacity\n°hide hud\n°show combo\n°statistics text bounce\n-added Gameplay Modifiers!!\n°scroll speed\n°playback rate\n°instakill on miss\n°practice mode\n°botplay\n°misses challenge (New Mode!!!)\n-added fullscreen changer\n-added Vs Qt (termination incomplete)\n-added pocoblitz (Vs Pocoyo)\n-added shrine-maiden-erect (Gensokyo Funkin' : Scarlet Incident)\n-added freedom-dive bf\n-added freaky menu song\n-added button to exit freeplay\n-added statistics text bounce on hit\n-unload preloaded songs when you finish or exit a song (for better optimization)\n-fixed (Finally) biggest input problem\n-100% redone note spawn system (more optimized and much more easier to make modifications)\n-fixed A LOT of bugs\n-some confusing texts were rewritten\n-some optimized music files (-19.84MB)\n-new Github page to host the game\n\nOld:\nV0.1.09a\n-adjusted the downscroll input area\n-new tween anim for camera moviment\n-added camera in some songs that didn't have it\n\nV0.1.09\n-new death screen\n-new pause screen (RESUME - RESTART SONG - EXIT TO MENU)\n-\"new!\" text for new songs \n-added Crazy (Vs Mouse 2.5)\n-added Week 5 (Hard/Nightmare/Pico)\n-added darnell BF mix mist\n-fixed hitbox and keybinds not working\n-fixed downscroll input\n-fixed BF right note outline on aquaphobia\n-fixed pause restarting the song sometimes\n-fixed visual bug on life bar\n-fixed notes press animation not working on keyboard\n-fixed camera bug\n-optimized aquaphobia\n-optimized game size using even fewer scenes (-5.6MB)\n-optimized several sprites (-11.06MB)\n-removed unused assets\n-other small fixes\n\nV0.1.08 - V0.1.01\n-add simple pause (esc/enter/numpad enter or click B Button)\n-added Vs Tabi (classic)\n-(WIP) Note Skins\n-optimized game size using fewer scenes (8.4MB saved so far)\n-aquaphobia BF Right note sprite fixed\n-finally fixed upscroll Input \n-added foolhardy\n-life bar and status bar has been changed, similar to Psych Engine\n-icons\n-very simple death screen\n-small bugs fixed\n-added Weekend1 Hard/BF Mix\n-optmized Aquaphobia\n-added Week 7 Hard/Nightmare/Pico\n-added Worship Pico Mix (By: RxB and Tawor)\n-Love Incense Chart Updated\n-Added Love Incense Cover Art (By: LunneM0on)\n-bugs fixed\n-added Weeks 4 Hard/Nightmare\n-minimum Fps fixed\n-more backgrounds and sprites optimized\n(assets V0.1.03: 212.08MB / assets V0.1.03a: 184.04MB)\n-fixed camera bug\n-some backgrounds, sprites and musics optimized (assets V0.1.02: 241.09MB / assets V0.1.03: 212.08MB)\n-added Love Incense\n-fixed blammed pico chart\n-fixed notes press animation on mobile\n-week 3 Hard/Nightmare/Pico\n-fix week 2 erect background\n\npre release V0.1.0\n-week 1 and 2 - Hard/Nightmare/Pico\n\na FNF engine built from scratch in GDevelop that supports the original game's Chart\n\nproject is under development, incomplete, many more features will come in the future :D\n\n💞Friday Night Funkin' By FunkinCrew\n\nMods:\nmid-fight masses\n\nmid-fight masses in my style\nsprites By moongong\n\nmid-fight masses pico mix \nBy: RxB and Tawor\n\nvs selever \n\nlate night City tales chapter 1\n\nvs camellia\n\nsoulless bf\n\ndave and bambi - Golden apple\n\nvs mami\n\nLove Incense By: NaithyLiz\nCharted By: LucyYuih\nCover Art By: LunneM0on\n\nvs zardy\n\nvs tabi\n\nvs mouse 2.5",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "b8fa47bed1bcb70aab603facad07344cd2373da094894a7cfb26003a78aa42d4-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "8ac32b1bb83f2033971056b689e18a5fe6d94660c8d7acfe1f2faca0894a9f8f-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "c2b3ac8c9b4558e6ada38ffbf07382a1a29b38b92b23003ad97712d5ea94655e-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "587555c2828f2987d076fad37789d749581545d0891258174d1dd943d1a3658e-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "34a1eff2cf2acd99b3f0892ac0b2498c940546e28661e4035ad0932c945c17b8-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "921d52369ab3b2c34f87bc714e5aefa38548aaff611c51a361bf00e1758e740e-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "0dea7608819506017e00666dc014992cd0c656d1a9e3814581e59fe870032815-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "d0ebc2cf321ec989d2b7d3da1cdcfbef7565bf4189bd894357b464028aa19528-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "d34a572b983a1dc23001fec32edc8224113ee4b5f1aa240f054da63c7283878f-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "61d010ca5e09ef78ec7feba62a83583d45df808d1bae5947113348831fd4dd90-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "3921bca56451f5d8bcc8fca273b3a1e4ab069580b5763cb33a442ad837592b5b-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "8219fca9e4b5061eeff5dcc0c7455b5d523b133f3d1318def0ab3962da731221-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "6e6732dacec81eb0ad1b6bf2a0196df2f9b2a358fbdcfed9e0e8e9babacbf765-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "986d8c42af4004f3ba187957c2d667109f76d90ad503f7cae69a18422070a02b-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "93eeaecc66b9a57a5f6039d73ea97e137ac72a700b36c2780a453a33a08c3ca0-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "9d9f808eb8a0395bd1edbf8a1ca13447c01165c34b5dc568589c9ce020d067fb-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "5a8ac2029ddd93ed10f466ac43199b64ebbc008bf7efa790afadfced53b1bf3a-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "7e3bcfc8b9f6cf97b971d89475ca87494642c40e548dd5bf31cadad0049f8314-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "81711b404f8c9464097bd722d858a9f7d1268df8e0b09f950aa0b4215d66bf30-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "3bdc237398c53da4a3b737e29e46f64fcd56fd85f8fecfe8fa09dc91166b5500-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "6db1951feab9a34a3065d3fc2509eb3474e3cf40b84aabc6126fb6669e5cb03e-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "c04059e68f1884fca299dfae26f01ab9cce88c6c925c980d5455382baeaee953-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "0b481391dc842ef5da8502a0911f8d9cf616669625f5f98fca38ac8e4e6b480f-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "ce30c970caef442396226829f9064fa23fc1d2c0bb768a1e1e7cc0ae6e645a27-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
