@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__JSONResourceLoader__LoadJSONToScene !== "undefined") {
 gdjs.evtsExt__JSONResourceLoader__LoadJSONToScene = {};
 
 
-gdjs.evtsExt__JSONResourceLoader__LoadJSONToScene.userFunc0x4bfbd30 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__JSONResourceLoader__LoadJSONToScene.userFunc0x5dd22f0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext
     .getArgument("Variable")
@@ -25,7 +25,7 @@ gdjs.evtsExt__JSONResourceLoader__LoadJSONToScene.eventsList0 = function(runtime
 {
 
 
-gdjs.evtsExt__JSONResourceLoader__LoadJSONToScene.userFunc0x4bfbd30(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__JSONResourceLoader__LoadJSONToScene.userFunc0x5dd22f0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

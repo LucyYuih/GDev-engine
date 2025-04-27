@@ -95,7 +95,7 @@ for (var i = 0, k = 0, l = gdjs.CreditsCode.GDPauseButton3Objects1.length;i<l;++
 gdjs.CreditsCode.GDPauseButton3Objects1.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(110713676);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(103392156);
 }
 }
 if (isConditionTrue_0) {
@@ -112,6 +112,7 @@ let isConditionTrue_0 = false;
 {
 gdjs.copyArray(runtimeScene.getObjects("SquareWhiteSlider"), gdjs.CreditsCode.GDSquareWhiteSliderObjects1);
 {gdjs.evtTools.camera.setCameraY(runtimeScene, (( gdjs.CreditsCode.GDSquareWhiteSliderObjects1.length === 0 ) ? 0 :gdjs.CreditsCode.GDSquareWhiteSliderObjects1[0].Value((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined))), "", 0);
+}{gdjs.evtTools.camera.setCameraX(runtimeScene, 960, "", 0);
 }}
 
 }
